@@ -1,0 +1,1 @@
+{"rustc":3190981394957179056,"features":"","target":0,"profile":0,"path":0,"deps":[[1843148089055711114,"build_script_build",false,4974026690154026468]],"local":[{"RerunIfChanged":{"output":"release/build/wasmtime-0be0b39026a6d592/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

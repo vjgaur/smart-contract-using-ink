@@ -1,0 +1,10 @@
+/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/deps/jsonrpc_ipc_server-5dcb55c889661e65.rmeta: /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/lib.rs /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/meta.rs /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/select_with_weak.rs /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/server.rs
+
+/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/deps/libjsonrpc_ipc_server-5dcb55c889661e65.rlib: /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/lib.rs /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/meta.rs /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/select_with_weak.rs /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/server.rs
+
+/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/deps/jsonrpc_ipc_server-5dcb55c889661e65.d: /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/lib.rs /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/meta.rs /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/select_with_weak.rs /Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/server.rs
+
+/Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/lib.rs:
+/Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/meta.rs:
+/Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/select_with_weak.rs:
+/Users/vijendr/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/server.rs:

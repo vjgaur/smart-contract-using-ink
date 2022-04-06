@@ -1,0 +1,9 @@
+/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_transaction_payment-a5a917fa264808fc.rmeta: /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/lib.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/payment.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/types.rs
+
+/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libpallet_transaction_payment-a5a917fa264808fc.rlib: /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/lib.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/payment.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/types.rs
+
+/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_transaction_payment-a5a917fa264808fc.d: /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/lib.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/payment.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/types.rs
+
+/Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/lib.rs:
+/Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/payment.rs:
+/Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/frame/transaction-payment/src/types.rs:

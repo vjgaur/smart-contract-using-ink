@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/build/typenum-469d3887478e7e3e/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/build/typenum-469d3887478e7e3e/out/op.rs

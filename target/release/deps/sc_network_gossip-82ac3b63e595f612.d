@@ -1,0 +1,10 @@
+/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/deps/sc_network_gossip-82ac3b63e595f612.rmeta: /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/lib.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/bridge.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/state_machine.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/validator.rs
+
+/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/deps/libsc_network_gossip-82ac3b63e595f612.rlib: /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/lib.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/bridge.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/state_machine.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/validator.rs
+
+/Users/vijendr/Desktop/Project-Dumps/substrate-node-template/target/release/deps/sc_network_gossip-82ac3b63e595f612.d: /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/lib.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/bridge.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/state_machine.rs /Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/validator.rs
+
+/Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/lib.rs:
+/Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/bridge.rs:
+/Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/state_machine.rs:
+/Users/vijendr/.cargo/git/checkouts/substrate-7e08433d4c370a21/352c46a/client/network-gossip/src/validator.rs:
